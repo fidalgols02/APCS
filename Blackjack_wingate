@@ -1,3 +1,5 @@
+#Matt O'Mara
+#Laura Fidalgo 
 from random import randint
 
 def card_deck():
